@@ -4,7 +4,7 @@ import './App.css';
 import Header from './header.js';
 import Image from './image.js';
 import Recipes from './recipes.js';
-import Ingredients from './ingredients.js';
+import List from './ingredients-list.js';
 import Footer from './footer.js';
 
 
@@ -15,7 +15,7 @@ function App() {
     <Header />
     <Image />
     <Recipes />
-    <Ingredients />
+    <List />
     <Footer />
     </>
 
